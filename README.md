@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/aa8b72e0dcc7385105f1b.jpg">
+  <img src="https://graph.org/file/5ca97501e4d55fff247eb.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
