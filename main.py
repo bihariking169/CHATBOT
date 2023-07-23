@@ -10,8 +10,8 @@ import time
 from datetime import datetime
 #from database.users_chats_db import db
 
-API_ID = "14050586"
-API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
+API_ID = "25450075"
+API_HASH = "278e22b00d6dd565c837405eda49e6f2"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
 MONGO_URL = "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
@@ -59,7 +59,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.1)
     await accha.edit("𝐒𝐭𝐚𝐫𝐭𝐞𝐝.✓")
     await asyncio.sleep(0.2)
-    await accha.edit("🥵𝙽𝙾𝚆 𝙲𝙾𝙼𝙴 𝙷𝙴𝚁𝙴 👉 @CYBERDAXXX 🥀 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙶𝙸𝚁𝙻𝙵𝚁𝙸𝙴𝙽𝙳🌹💋")
+    await accha.edit("🥵")
        
 @bot.on_message(
     filters.command(["chatbot off", f"chatbot@{BOT_USERNAME} off"], prefixes=["/", ".", "?", "-"])
