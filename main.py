@@ -63,7 +63,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @CYBERDAXX\n║\n║➣ @CYBERDAXX\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @CYBERDAXX\n║\n║➣ @groups_adda_links\n║\n║➣ @CYBERDAXXX\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @CYBERDAXX\n║\n║➣ @CYBERDAXXX\n║\n║➣ 🍁\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
