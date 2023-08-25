@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/af0ca9c7ea4b7155c6f9d.jpg">
+  <img src="https://te.legra.ph/file/280de835bfe617deb9b6a.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
